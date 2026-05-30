@@ -1,3 +1,5 @@
+<img width="1496" height="900" alt="fx_dashboard" src="https://github.com/user-attachments/assets/aa4c756b-a795-41f6-aa32-be46970ef193" />
+<img width="1496" height="900" alt="fx_dashboard" src="https://github.com/user-attachments/assets/91821e97-8bb0-488f-bb0e-58225d74546b" />
 ### Fx-Trading-analytics
 Automated FX trading analytics pipeline computing realized volatility, VWAP, momentum signals and spread proxy on EUR/USD, GBP/USD and USD/JPY data.
 ##Overview
@@ -46,3 +48,9 @@ sell at (ask) and buy at (bid). It represents the cost of trading — a direct
 measure of market liquidity. Tighter spreads mean lower transaction costs and 
 higher liquidity.
 Note: Instead of tick-level bid/ask data, the high-low range divided by close is used in the project.
+<img width="1496" height="900" alt="fx_dashboard" src="https://github.com/user-attachments/assets/3d0d49b7-2b45-4763-8115-f5b8726771ea" />
+# Key Insights
+Trend: EUR/USD experienced a significant appreciation from early April before moving into a sideways consolidation phase.
+Volatility: Market risk was highest in late March and early April, then moderated.
+Momentum: Signals shifted frequently but were predominantly positive during the strongest uptrend.
+Market Conditions: The decline in the spread proxy over time suggests improving liquidity and more stable trading conditions.
