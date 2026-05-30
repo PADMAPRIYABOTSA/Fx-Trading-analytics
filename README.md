@@ -1,6 +1,5 @@
-<img width="1496" height="900" alt="fx_dashboard" src="https://github.com/user-attachments/assets/aa4c756b-a795-41f6-aa32-be46970ef193" />
-<img width="1496" height="900" alt="fx_dashboard" src="https://github.com/user-attachments/assets/91821e97-8bb0-488f-bb0e-58225d74546b" />
-### Fx-Trading-analytics
+
+## Fx-Trading-analytics
 Automated FX trading analytics pipeline computing realized volatility, VWAP, momentum signals and spread proxy on EUR/USD, GBP/USD and USD/JPY data.
 ##Overview
 This project builds an automated Python pipeline that fetches hourly FX data 
