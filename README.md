@@ -14,7 +14,7 @@ modular layers — ingestion, transformation, analytics, visualisation.
 | GBP/USD | British Pound / US Dollar | Highly sensitive to UK macro and rate decisions |
 | USD/JPY | US Dollar / Japanese Yen | Key risk sentiment indicator, carry trade benchmark |
 
-##Realized Volatility
+## Realized Volatility
 Volatility measures how much a price moves over time. Realized volatility is 
 calculated from actual historical price changes rather than implied by options 
 prices. I compute it using log returns over a rolling 24-hour window, 
@@ -25,7 +25,7 @@ management, position sizing, and options pricing. EUR/USD typically shows
 annualised volatility of 5-8% in calm markets, spiking during macro events 
 like Fed rate decisions or geopolitical shocks
 
-##VWAP — Volume Weighted Average Price
+## VWAP — Volume Weighted Average Price
 vwap represents the average price weighted by volume, giving more 
 importance to price levels where more trading activity occurred.
 Used as refernce during trading: if buying below vwap, it suggests paying less than avergae market participant.
@@ -33,14 +33,14 @@ Note: since free FX data from Yahoo Finance does not include real interbank
 volume, a constant volume is used, which reduces VWAP to a rolling mean of 
 typical price.
 
-##Momentum Signal
+## Momentum Signal
 Momentum is the tendency of assets that have been rising to continue rising, 
 and falling assets to continue falling.
 When the short-term average crosses above the long-term average, it signals 
 building momentum — a potential entry signal for systematic trend-following 
 strategies.
 
-##Bid-Ask Spread proxy
+## Bid-Ask Spread proxy
 The bid-ask spread is the difference between the price a market maker will 
 sell at (ask) and buy at (bid). It represents the cost of trading — a direct 
 measure of market liquidity. Tighter spreads mean lower transaction costs and 
